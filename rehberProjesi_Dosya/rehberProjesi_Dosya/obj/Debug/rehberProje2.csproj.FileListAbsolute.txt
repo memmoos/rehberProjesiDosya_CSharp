@@ -1,0 +1,52 @@
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\bin\Debug\rehberProje2.exe.config
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\bin\Debug\rehberProje2.exe
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\bin\Debug\rehberProje2.pdb
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.AssemblyReference.cache
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.Form1.resources
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.Properties.Resources.resources
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.GenerateResource.cache
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.exe
+C:\Users\Muhammet Ali\Desktop\rehberProje2\rehberProje2\obj\Debug\rehberProje2.pdb
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\bin\Debug\Rehber.exe.config
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\bin\Debug\Rehber.exe
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\bin\Debug\Rehber.pdb
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.AssemblyReference.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.Form1.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.Properties.Resources.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.RehberdenSil.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.RehbereEkle.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.RehberiGüncelle.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.RehberiListele.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.GenerateResource.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\rehberProje2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\Rehber.exe
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje2\rehberProje2\obj\Debug\Rehber.pdb
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\bin\Debug\Rehber.exe.config
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\bin\Debug\Rehber.exe
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\bin\Debug\Rehber.pdb
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.csproj.AssemblyReference.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.Form1.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.Properties.Resources.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.RehberdenSil.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.RehbereEkle.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.RehberiGüncelle.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.RehberiListele.resources
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.csproj.GenerateResource.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\rehberProje2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\Rehber.exe
+C:\Users\Muhammet Ali\Desktop\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje3\rehberProje2\obj\Debug\Rehber.pdb
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\bin\Debug\Rehber.exe.config
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\bin\Debug\Rehber.exe
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\bin\Debug\Rehber.pdb
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.csproj.AssemblyReference.cache
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.Form1.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.Properties.Resources.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.RehberdenSil.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.RehbereEkle.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.RehberiGüncelle.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.RehberiListele.resources
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.csproj.GenerateResource.cache
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\rehberProje2.csproj.CoreCompileInputs.cache
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\Rehber.exe
+C:\Users\malip\Desktop\mali\2.Sınıf 2.Dönem\nesneTabanlı Proglama\projeler\rehberProje4\rehberProje2\obj\Debug\Rehber.pdb

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|rehberProjesi_Dosya||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\rehbereekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\rehbereekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\rehberdensil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\rehberdensil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\rehberig\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\rehberig\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\rehberilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\rehberilistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberprojesi_dosya\\rehberdensil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|solutionrelative:rehberprojesi_dosya\\rehberdensil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2799B7-CBA2-4BF2-986E-F5039E73F68D}|rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj|c:\\users\\malip\\desktop\\rehberprojesi_dosya\\rehberprojesi_dosya\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rehberProjesi_Dosya",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj",
+              "RelativeToolTip": "rehberProjesi_Dosya\\rehberProjesi_Dosya.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-04T20:56:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RehberiListele.cs",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberiListele.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\RehberiListele.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberiListele.cs",
+              "RelativeToolTip": "rehberProjesi_Dosya\\RehberiListele.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:48:07.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RehberiG\u00FCncelle.cs",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberiG\u00FCncelle.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\RehberiG\u00FCncelle.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberiG\u00FCncelle.cs",
+              "RelativeToolTip": "rehberProjesi_Dosya\\RehberiG\u00FCncelle.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:43:21.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RehberdenSil.cs",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberdenSil.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\RehberdenSil.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberdenSil.cs",
+              "RelativeToolTip": "rehberProjesi_Dosya\\RehberdenSil.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:19:49.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RehbereEkle.cs",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehbereEkle.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\RehbereEkle.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehbereEkle.cs",
+              "RelativeToolTip": "rehberProjesi_Dosya\\RehbereEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:10:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\Form1.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\Form1.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "rehberProjesi_Dosya\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:07:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RehberdenSil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberdenSil.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\RehberdenSil.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\RehberdenSil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "rehberProjesi_Dosya\\RehberdenSil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:06:57.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\Form1.cs",
+              "RelativeDocumentMoniker": "rehberProjesi_Dosya\\Form1.cs",
+              "ToolTip": "C:\\Users\\malip\\Desktop\\rehberProjesi_Dosya\\rehberProjesi_Dosya\\Form1.cs",
+              "RelativeToolTip": "rehberProjesi_Dosya\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:06:52.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
